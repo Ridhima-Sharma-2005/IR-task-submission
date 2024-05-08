@@ -16,3 +16,5 @@ i stored the files uploaded in google drive but didn't store the the information
 
 link of the google scripts
 https://script.google.com/d/1lk-Or9VocCpUixNwW76pII-6PpM5u0cbNt2cIsBcztLnTkxcdsduHsIq/edit?usp=sharing
+link of the google drive folder
+https://drive.google.com/drive/folders/1pdSkgB4fLZxBsjG4Fvt5dWo2vj5Ov2hC
