@@ -13,3 +13,6 @@ at the end the url generated of the webapp is used in a local html file using if
 
 some anomalies in my webpage:
 i stored the files uploaded in google drive but didn't store the the information typed by the student. this can be easily stored in a excel file which would be in the same folder and would be updated whenever a new student submits the form. the code for this has not been provided by me.
+
+link of the google scripts
+https://script.google.com/d/1lk-Or9VocCpUixNwW76pII-6PpM5u0cbNt2cIsBcztLnTkxcdsduHsIq/edit?usp=sharing
